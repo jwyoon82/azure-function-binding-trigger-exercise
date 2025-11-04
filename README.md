@@ -9,4 +9,3 @@
 - Azure Function Core Tools
 - Azurite
 - Python
- 
