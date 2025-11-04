@@ -8,4 +8,3 @@
 - Visual Studio Code
 - Azure Function Core Tools
 - Azurite
-- Python
